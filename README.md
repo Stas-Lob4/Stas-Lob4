@@ -14,7 +14,6 @@
 </p>
 
 
-<hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,tailwind,nodejs,ts,react,materialui,redux,mysql,graphql,docker,github,gitlab,git)](https://skills.thijs.gg)
