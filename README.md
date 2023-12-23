@@ -8,7 +8,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
 </div>
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/stas-lob4/stas-lob4/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/stas-lob4/stas-lob4/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/stas-lob4/stas-lob4/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/stas-lob4/stas-lob4/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <h2> 📫 &nbsp;How to reach me</h2>
 <p align="left">
