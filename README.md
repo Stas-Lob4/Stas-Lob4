@@ -3,7 +3,6 @@
 </h2>
 
 <h2> 💻 &nbsp;My Github History</h2>
-<hr/>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/stas-lob4/stas-lob4/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/stas-lob4/stas-lob4/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
