@@ -26,7 +26,7 @@
 - ⚙️ Performance-first UI engineering, optimization, and clean architecture
 - 🧠 Strong focus on predictable state management (Redux / RTK Query / Zustand)
 - 🧩 Building reliable interfaces under evolving requirements
-- 📫 Reach me via **LinkedIn** or **Email**
+- 📫 Reach me via **LinkedIn**
 - 🌍 Languages: English, Russian, Ukrainian, Deutsch
 
 ---
